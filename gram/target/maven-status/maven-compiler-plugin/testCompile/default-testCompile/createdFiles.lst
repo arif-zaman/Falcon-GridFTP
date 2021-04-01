@@ -1,0 +1,11 @@
+org/globus/gram/GramTest$2.class
+org/globus/gram/GramTest.class
+org/globus/rsl/tests/RSLParserTest.class
+org/globus/rsl/tests/ListRslNodeTest.class
+org/globus/gram/MultiUserGramTest.class
+org/globus/rsl/tests/RslNodeTest.class
+org/globus/rsl/tests/RslAttributesTest.class
+org/globus/gram/GramTest$3.class
+org/globus/gram/JobRun.class
+org/globus/gram/GramTest$1.class
+org/globus/gram/tests/GramAttributesTest.class

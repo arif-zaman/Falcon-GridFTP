@@ -1,0 +1,15 @@
+org/globus/myproxy/InitParams.class
+org/globus/myproxy/MyProxyServerAuthorization.class
+org/globus/myproxy/MyProxyCLI.class
+org/globus/myproxy/ChangePasswordParams.class
+org/globus/myproxy/MyTrustManager.class
+org/globus/myproxy/GetParams.class
+org/globus/myproxy/InfoParams.class
+org/globus/myproxy/MyProxy.class
+org/globus/myproxy/Params.class
+org/globus/myproxy/MyProxyException.class
+org/globus/myproxy/GetTrustrootsParams.class
+org/globus/myproxy/CredentialInfo.class
+org/globus/myproxy/StoreParams.class
+org/globus/myproxy/DestroyParams.class
+org/globus/myproxy/MyProxyConstants.class

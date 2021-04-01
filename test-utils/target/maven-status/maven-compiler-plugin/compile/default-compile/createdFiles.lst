@@ -1,0 +1,3 @@
+org/globus/gsi/testutils/DirSetupUtil.class
+org/globus/gsi/testutils/FileSetupUtil.class
+org/globus/gsi/testutils/SecurityTest.class

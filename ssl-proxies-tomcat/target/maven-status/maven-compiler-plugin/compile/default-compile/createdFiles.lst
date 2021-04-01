@@ -1,0 +1,5 @@
+org/globus/gsi/tomcat/GlobusSSLInputStream.class
+org/globus/gsi/tomcat/GlobusSSLImplementation.class
+org/globus/gsi/tomcat/GlobusSSLSocket.class
+org/globus/gsi/tomcat/GlobusSSLSocketWrapper.class
+org/globus/gsi/tomcat/GlobusSSLSocketFactory.class

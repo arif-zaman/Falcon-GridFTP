@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.globus.gsi.filestore.TestFileBasedCRL
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.001 sec

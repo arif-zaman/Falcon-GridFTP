@@ -1,0 +1,1795 @@
+2020-12-23 13:26:16 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 13:26:16 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 13:26:16 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 13:26:16 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 13:26:16 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 13:26:16 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 13:26:16 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 13:26:16 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 13:26:16 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 13:26:16 WARN  GridFTPClient:196 - Client could not be establieshed. Exiting...
+2020-12-23 13:41:55 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 13:41:55 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 13:41:55 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 13:41:55 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 13:41:55 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 13:41:55 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 13:41:55 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 13:41:55 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 13:41:55 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 13:42:02 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.754 data size:120 GB
+2020-12-23 13:42:02 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 13:42:05 INFO  AdaptiveGridFTPClient:198 -  Running MC with :2 channels.
+2020-12-23 13:42:05 INFO  AdaptiveGridFTPClient:200 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 13:42:05 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:2	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 13:44:26 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 13:44:26 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 13:44:26 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 13:44:26 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 13:44:26 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 13:44:26 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 13:44:26 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 13:44:26 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 13:44:26 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 13:44:32 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.666 data size:120 GB
+2020-12-23 13:44:32 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 13:44:34 INFO  AdaptiveGridFTPClient:198 -  Running MC with :2 channels.
+2020-12-23 13:44:34 INFO  AdaptiveGridFTPClient:200 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 13:44:34 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:2	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 13:47:40 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 13:47:40 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 13:47:40 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 13:47:40 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 13:47:40 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 13:47:40 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 13:47:40 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 13:47:40 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 13:47:40 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 13:47:45 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.562 data size:120 GB
+2020-12-23 13:47:45 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 13:47:47 INFO  AdaptiveGridFTPClient:198 -  Running MC with :2 channels.
+2020-12-23 13:47:47 INFO  AdaptiveGridFTPClient:200 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 13:47:47 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:2	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 17:25:44 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 17:25:44 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 17:25:44 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 17:25:44 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 17:25:44 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 17:25:44 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 17:25:44 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 17:25:44 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 17:25:44 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 17:25:51 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.797 data size:120 GB
+2020-12-23 17:25:51 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 17:25:55 INFO  AdaptiveGridFTPClient:198 -  Running MC with :2 channels.
+2020-12-23 17:25:55 INFO  AdaptiveGridFTPClient:200 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 17:25:55 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:2	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 17:28:07 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 17:28:07 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 17:28:07 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 17:28:07 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 17:28:07 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 17:28:07 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 17:28:07 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 17:28:07 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 17:28:07 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 17:28:12 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.632 data size:120 GB
+2020-12-23 17:28:12 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 17:28:15 INFO  AdaptiveGridFTPClient:198 -  Running MC with :2 channels.
+2020-12-23 17:28:15 INFO  AdaptiveGridFTPClient:200 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 17:28:15 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:2	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 17:28:57 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 17:28:58 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 17:28:58 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 17:28:58 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 17:28:58 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 17:28:58 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 17:28:58 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 17:28:58 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 17:28:58 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 17:29:02 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.622 data size:120 GB
+2020-12-23 17:29:02 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 17:29:05 INFO  AdaptiveGridFTPClient:198 -  Running MC with :2 channels.
+2020-12-23 17:29:05 INFO  AdaptiveGridFTPClient:200 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 17:29:05 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:2	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 17:30:05 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 17:30:05 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 17:30:05 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 17:30:05 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 17:30:05 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 17:30:05 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 17:30:05 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 17:30:05 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 17:30:05 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 17:30:10 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.727 data size:120 GB
+2020-12-23 17:30:10 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 17:30:12 INFO  AdaptiveGridFTPClient:198 -  Running MC with :2 channels.
+2020-12-23 17:30:12 INFO  AdaptiveGridFTPClient:200 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 17:30:12 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:2	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 19:54:51 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 19:54:51 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 19:54:51 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 19:54:51 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 19:54:51 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 19:54:51 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 19:54:51 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 19:54:51 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 19:54:51 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 21:09:46 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 21:09:46 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 21:09:46 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 21:09:46 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 21:09:46 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 21:09:46 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 21:09:46 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 21:09:46 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 21:09:46 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 21:09:54 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.917 data size:120 GB
+2020-12-23 21:09:54 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:02:34 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 23:02:34 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 23:02:34 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 23:02:34 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 23:02:34 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 23:02:34 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 23:02:34 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 23:02:34 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 23:02:34 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 23:02:41 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.657 data size:120 GB
+2020-12-23 23:02:41 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:06:21 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 23:06:21 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 23:06:21 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 23:06:21 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 23:06:21 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 23:06:21 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 23:06:21 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 23:06:21 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 23:06:21 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 23:06:26 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.674 data size:120 GB
+2020-12-23 23:06:26 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:06:42 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 23:06:42 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 23:06:42 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 23:06:42 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 23:06:42 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 23:06:42 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 23:06:42 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 23:06:42 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 23:06:42 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 23:06:48 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.738 data size:120 GB
+2020-12-23 23:06:48 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:06:50 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-23 23:06:50 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 23:06:50 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 23:09:58 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 23:09:58 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 23:09:58 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 23:09:58 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 23:09:58 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 23:09:58 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 23:09:58 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 23:09:58 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 23:09:58 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 23:10:03 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.769 data size:120 GB
+2020-12-23 23:10:03 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:10:05 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-23 23:10:05 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 23:10:05 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 23:31:09 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 23:31:09 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 23:31:09 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 23:31:09 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 23:31:09 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 23:31:09 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 23:31:09 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 23:31:09 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 23:31:09 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 23:31:16 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.592 data size:120 GB
+2020-12-23 23:31:16 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:31:18 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-23 23:31:18 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 23:31:18 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 23:35:22 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 23:35:22 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 23:35:22 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 23:35:22 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 23:35:22 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 23:35:22 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 23:35:22 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 23:35:22 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 23:35:22 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 23:35:27 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.599 data size:120 GB
+2020-12-23 23:35:27 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:35:28 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-23 23:35:28 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 23:35:28 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 23:38:23 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 23:38:23 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 23:38:23 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 23:38:23 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 23:38:23 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 23:38:23 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 23:38:23 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 23:38:23 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 23:38:23 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 23:38:29 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.605 data size:120 GB
+2020-12-23 23:38:29 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:38:30 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-23 23:38:30 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 23:38:30 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-23 23:39:17 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-23 23:39:17 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-23 23:39:17 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-23 23:39:17 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-23 23:39:17 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-23 23:39:17 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-23 23:39:17 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-23 23:39:17 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-23 23:39:17 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-23 23:39:22 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.555 data size:120 GB
+2020-12-23 23:39:22 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-23 23:39:24 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-23 23:39:24 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-23 23:39:24 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-24 00:22:39 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 00:22:39 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 00:22:39 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 00:22:39 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 00:22:39 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 00:22:39 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 00:22:39 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 00:22:39 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 00:22:39 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 00:22:45 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.671 data size:120 GB
+2020-12-24 00:22:45 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-24 00:22:49 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-24 00:22:49 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 00:22:49 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-24 00:40:22 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 00:40:22 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 00:40:22 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 00:40:22 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 00:40:22 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 00:40:22 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 00:40:22 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 00:40:22 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 00:40:22 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 00:40:28 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.618 data size:120 GB
+2020-12-24 00:40:28 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-24 00:40:31 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-24 00:40:31 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 00:40:31 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-24 00:41:36 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 00:41:36 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 00:41:36 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 00:41:36 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 00:41:36 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 00:41:36 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 00:41:36 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 00:41:36 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 00:41:36 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 00:41:41 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.589 data size:120 GB
+2020-12-24 00:41:41 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-24 00:41:45 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-24 00:41:45 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 00:41:45 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-24 00:49:58 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 00:49:58 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 00:49:58 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 00:49:58 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 00:49:58 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 00:49:58 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 00:49:58 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 00:49:58 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 00:49:58 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 00:50:03 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.698 data size:120 GB
+2020-12-24 00:50:03 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-24 00:50:06 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-24 00:50:06 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 00:50:06 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-24 00:54:33 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 00:54:33 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 00:54:33 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 00:54:33 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 00:54:33 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 00:54:33 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 00:54:33 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 00:54:33 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 00:54:33 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 00:54:38 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.6 data size:120 GB
+2020-12-24 00:54:38 INFO  Utils:132 - Chunk 0:	files:120	 avg:1 GB 	 total:120 GB Density:LARGE
+2020-12-24 00:54:40 INFO  AdaptiveGridFTPClient:202 -  Running MC with :1 channels.
+2020-12-24 00:54:40 INFO  AdaptiveGridFTPClient:204 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 00:54:40 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:120 size:122880.0
+2020-12-24 19:18:59 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 19:18:59 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 19:18:59 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 19:18:59 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 19:18:59 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 19:18:59 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 19:18:59 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 19:18:59 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 19:18:59 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 19:20:44 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 19:20:44 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 19:20:44 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 19:20:44 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 19:20:44 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 19:20:44 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 19:20:44 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 19:20:44 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 19:20:44 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 19:40:31 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 19:40:31 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 19:40:31 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 19:40:31 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 19:40:31 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 19:40:31 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 19:40:31 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 19:40:31 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 19:40:31 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 19:41:04 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 19:41:04 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 19:41:04 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 19:41:04 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 19:41:04 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 19:41:04 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 19:41:04 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 19:41:04 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 19:41:04 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 19:42:05 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 19:42:05 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 19:42:05 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 19:42:05 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 19:42:05 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 19:42:05 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 19:42:05 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 19:42:05 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 19:42:05 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 19:42:12 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.945 data size:900 GB
+2020-12-24 19:42:12 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 19:42:14 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-24 19:42:14 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 19:42:14 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 19:43:30 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 19:43:30 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 19:43:30 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 19:43:30 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 19:43:30 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 19:43:30 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 19:43:30 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 19:43:30 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 19:43:30 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 19:43:40 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.787 data size:900 GB
+2020-12-24 19:43:40 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 19:43:42 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-24 19:43:42 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 19:43:42 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 20:00:35 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 20:00:35 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 20:00:35 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 20:00:35 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 20:00:35 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 20:00:35 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 20:00:35 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 20:00:35 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 20:00:35 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 20:00:40 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.892 data size:900 GB
+2020-12-24 20:00:40 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 20:00:42 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-24 20:00:42 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 20:00:42 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 20:06:04 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 20:06:04 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 20:06:04 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 20:06:04 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 20:06:04 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 20:06:04 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 20:06:04 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 20:06:04 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 20:06:04 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 20:06:10 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.666 data size:900 GB
+2020-12-24 20:06:10 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 20:06:12 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-24 20:06:12 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 20:06:12 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 23:18:39 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 23:18:39 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 23:18:39 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 23:18:39 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 23:18:39 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 23:18:39 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 23:18:39 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 23:18:39 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 23:18:39 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 23:18:50 INFO  AdaptiveGridFTPClient:87 - file listing completed at:1.05 data size:900 GB
+2020-12-24 23:18:50 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 23:18:53 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-24 23:18:53 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 23:18:53 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 23:22:37 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 23:22:37 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 23:22:37 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 23:22:37 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 23:22:37 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 23:22:37 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 23:22:37 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 23:22:37 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 23:22:37 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 23:22:44 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.946 data size:900 GB
+2020-12-24 23:22:44 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 23:22:46 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-24 23:22:46 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 23:22:46 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 23:29:49 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 23:29:49 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 23:29:49 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 23:29:49 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 23:29:49 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 23:29:49 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 23:29:49 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 23:29:49 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 23:29:49 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 23:29:56 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.696 data size:900 GB
+2020-12-24 23:29:56 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 23:29:59 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-24 23:29:59 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 23:29:59 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 23:32:46 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 23:32:46 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 23:32:46 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 23:32:46 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 23:32:46 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 23:32:46 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 23:32:46 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 23:32:46 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 23:32:46 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 23:32:50 INFO  AdaptiveGridFTPClient:87 - file listing completed at:0.686 data size:900 GB
+2020-12-24 23:32:50 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 23:32:52 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-24 23:32:52 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 23:32:52 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 23:43:48 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 23:43:48 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 23:43:48 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 23:43:48 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 23:43:48 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 23:43:48 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 23:43:48 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 23:43:48 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 23:43:48 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 23:43:53 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.823 data size:900 GB
+2020-12-24 23:43:53 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 23:43:57 INFO  AdaptiveGridFTPClient:203 -  Running MC with :1 channels.
+2020-12-24 23:43:57 INFO  AdaptiveGridFTPClient:205 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 23:43:57 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 23:45:49 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 23:45:49 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 23:45:49 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 23:45:49 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 23:45:49 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 23:45:49 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 23:45:49 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 23:45:49 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 23:45:49 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 23:45:55 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.694 data size:900 GB
+2020-12-24 23:45:55 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 23:45:56 INFO  AdaptiveGridFTPClient:203 -  Running MC with :1 channels.
+2020-12-24 23:45:56 INFO  AdaptiveGridFTPClient:205 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 23:45:56 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 23:49:15 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 23:49:15 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 23:49:15 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 23:49:15 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 23:49:15 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 23:49:15 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 23:49:15 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 23:49:15 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 23:49:15 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 23:49:20 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.691 data size:900 GB
+2020-12-24 23:49:20 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 23:49:22 INFO  AdaptiveGridFTPClient:203 -  Running MC with :1 channels.
+2020-12-24 23:49:22 INFO  AdaptiveGridFTPClient:205 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 23:49:22 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-24 23:55:09 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-24 23:55:09 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-24 23:55:09 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-24 23:55:09 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-24 23:55:09 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-24 23:55:09 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-24 23:55:09 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-24 23:55:09 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-24 23:55:09 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-24 23:55:13 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.615 data size:900 GB
+2020-12-24 23:55:13 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-24 23:55:15 INFO  AdaptiveGridFTPClient:203 -  Running MC with :1 channels.
+2020-12-24 23:55:15 INFO  AdaptiveGridFTPClient:205 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-24 23:55:15 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:00:40 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:00:40 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:00:40 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:00:40 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:00:40 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:00:40 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:00:40 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:00:40 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:00:40 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:00:45 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.76 data size:900 GB
+2020-12-25 00:00:45 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:00:47 INFO  AdaptiveGridFTPClient:203 -  Running MC with :1 channels.
+2020-12-25 00:00:47 INFO  AdaptiveGridFTPClient:205 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:00:47 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:04:18 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:04:18 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:04:18 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:04:18 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:04:18 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:04:18 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:04:18 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:04:18 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:04:18 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:04:23 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.786 data size:900 GB
+2020-12-25 00:04:23 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:04:26 INFO  AdaptiveGridFTPClient:203 -  Running MC with :1 channels.
+2020-12-25 00:04:26 INFO  AdaptiveGridFTPClient:205 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:04:26 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:06:36 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:06:36 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:06:36 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:06:36 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:06:36 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:06:36 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:06:36 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:06:36 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:06:36 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:06:40 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.629 data size:900 GB
+2020-12-25 00:06:40 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:06:42 INFO  AdaptiveGridFTPClient:203 -  Running MC with :1 channels.
+2020-12-25 00:06:42 INFO  AdaptiveGridFTPClient:205 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:06:42 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:07:12 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:07:12 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:07:12 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:07:12 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:07:12 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:07:12 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:07:12 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:07:12 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:07:12 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:07:17 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.785 data size:900 GB
+2020-12-25 00:07:17 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:07:19 INFO  AdaptiveGridFTPClient:203 -  Running MC with :9 channels.
+2020-12-25 00:07:19 INFO  AdaptiveGridFTPClient:205 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:07:19 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:9	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:08:11 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:08:11 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:08:11 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:08:11 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:08:11 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:08:11 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:08:11 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:08:11 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:08:11 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:08:16 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.776 data size:900 GB
+2020-12-25 00:08:16 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:08:21 INFO  AdaptiveGridFTPClient:204 -  Running MC with :9 channels.
+2020-12-25 00:08:21 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:08:21 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:9	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:11:19 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:11:19 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:11:19 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:11:19 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:11:19 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:11:19 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:11:20 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:11:20 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:11:20 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:11:26 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.838 data size:900 GB
+2020-12-25 00:11:26 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:11:28 INFO  AdaptiveGridFTPClient:204 -  Running MC with :9 channels.
+2020-12-25 00:11:28 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:11:28 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:9	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:12:25 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:12:25 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:12:25 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:12:25 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:12:25 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:12:25 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:12:26 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:12:26 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:12:26 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:12:31 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.77 data size:900 GB
+2020-12-25 00:12:31 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:12:33 INFO  AdaptiveGridFTPClient:204 -  Running MC with :9 channels.
+2020-12-25 00:12:33 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:12:33 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:9	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:12:54 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:12:54 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:12:54 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:12:54 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:12:54 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:12:54 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:12:54 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:12:54 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:12:54 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:12:59 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.795 data size:900 GB
+2020-12-25 00:12:59 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:13:02 INFO  AdaptiveGridFTPClient:204 -  Running MC with :31 channels.
+2020-12-25 00:13:02 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:13:02 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:31	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:14:53 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:14:53 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:14:53 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:14:53 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:14:53 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:14:53 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:14:53 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:14:53 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:14:53 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:14:58 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.785 data size:900 GB
+2020-12-25 00:14:58 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:15:01 INFO  AdaptiveGridFTPClient:204 -  Running MC with :63 channels.
+2020-12-25 00:15:01 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:15:01 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:63	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:16:13 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:16:13 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:16:13 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:16:13 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:16:13 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:16:13 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:16:13 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:16:13 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:16:13 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:16:19 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.645 data size:900 GB
+2020-12-25 00:16:19 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:16:21 INFO  AdaptiveGridFTPClient:204 -  Running MC with :63 channels.
+2020-12-25 00:16:21 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:16:21 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:63	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 00:17:27 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 00:17:27 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 00:17:27 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 00:17:27 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 00:17:27 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 00:17:27 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 00:17:27 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 00:17:27 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 00:17:27 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 00:17:32 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.745 data size:900 GB
+2020-12-25 00:17:32 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 00:17:35 INFO  AdaptiveGridFTPClient:204 -  Running MC with :63 channels.
+2020-12-25 00:17:35 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 00:17:35 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:63	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 12:24:05 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 12:24:05 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 12:24:05 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 12:24:05 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 12:24:05 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 12:24:05 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 12:24:05 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 12:24:05 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 12:24:05 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 12:24:15 INFO  AdaptiveGridFTPClient:86 - file listing completed at:1.095 data size:900 GB
+2020-12-25 12:24:15 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 12:24:18 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-25 12:24:18 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 12:24:18 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 12:28:14 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 12:28:14 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 12:28:14 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 12:28:14 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 12:28:14 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 12:28:14 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 12:28:14 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 12:28:14 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 12:28:14 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 12:28:20 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.823 data size:900 GB
+2020-12-25 12:28:20 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 12:28:22 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-25 12:28:22 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 12:28:22 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 12:30:29 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 12:30:29 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 12:30:29 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 12:30:29 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 12:30:29 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 12:30:29 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 12:30:29 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 12:30:29 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 12:30:29 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 12:30:33 INFO  AdaptiveGridFTPClient:86 - file listing completed at:1.0 data size:900 GB
+2020-12-25 12:30:33 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 12:30:36 INFO  AdaptiveGridFTPClient:204 -  Running MC with :1 channels.
+2020-12-25 12:30:36 INFO  AdaptiveGridFTPClient:206 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 12:30:36 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 12:38:24 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 12:38:24 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 12:38:24 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 12:38:24 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 12:38:24 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 12:38:24 INFO  ConfigurationParams:171 - maxCC = 2
+2020-12-25 12:38:24 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 12:38:24 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 12:38:24 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 12:38:29 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.623 data size:900 GB
+2020-12-25 12:38:29 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 12:38:29 INFO  AdaptiveGridFTPClient:141 -  Running MC with :1 channels.
+2020-12-25 12:38:29 INFO  AdaptiveGridFTPClient:143 - Chunk :LARGE basicClientControlChannel:0 p:2 ppq:0
+2020-12-25 12:38:29 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 12:43:20 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 12:43:20 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 12:43:20 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 12:43:20 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 12:43:20 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 12:43:20 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 12:43:20 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 12:43:20 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 12:43:20 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 12:43:25 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.897 data size:900 GB
+2020-12-25 12:43:25 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 12:43:25 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 12:43:25 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 12:43:25 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 14:30:49 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 14:30:49 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 14:30:49 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 14:30:49 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 14:30:49 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 14:30:49 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 14:30:49 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 14:30:49 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 14:30:49 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 14:30:56 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.994 data size:900 GB
+2020-12-25 14:30:56 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 14:30:56 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 14:30:56 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 14:30:56 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 14:32:22 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 14:32:22 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 14:32:22 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 14:32:22 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 14:32:22 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 14:32:22 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 14:32:22 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 14:32:22 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 14:32:22 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 14:32:28 INFO  AdaptiveGridFTPClient:86 - file listing completed at:1.046 data size:900 GB
+2020-12-25 14:32:28 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 14:32:28 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 14:32:28 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 14:32:28 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 14:34:13 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 14:34:13 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 14:34:13 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 14:34:13 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 14:34:13 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 14:34:13 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 14:34:13 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 14:34:13 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 14:34:13 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 14:34:19 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.79 data size:900 GB
+2020-12-25 14:34:19 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 14:34:19 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 14:34:19 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 14:34:19 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 14:41:41 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 14:41:41 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 14:41:41 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 14:41:41 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 14:41:41 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 14:41:41 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 14:41:41 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 14:41:41 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 14:41:41 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 14:41:46 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.722 data size:900 GB
+2020-12-25 14:41:46 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 14:41:46 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 14:41:46 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 14:41:46 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 14:42:31 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 14:42:31 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 14:42:31 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 14:42:31 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 14:42:31 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 14:42:31 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 14:42:31 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 14:42:31 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 14:42:31 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 14:42:37 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.846 data size:900 GB
+2020-12-25 14:42:37 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 14:42:37 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 14:42:37 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 14:42:37 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 14:45:48 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 14:45:48 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 14:45:48 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 14:45:48 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 14:45:48 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 14:45:48 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 14:45:48 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 14:45:48 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 14:45:48 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 14:45:56 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.806 data size:900 GB
+2020-12-25 14:45:56 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 14:45:56 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 14:45:56 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 14:45:56 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 14:55:19 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 14:55:19 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 14:55:19 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 14:55:19 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 14:55:19 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 14:55:19 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 14:55:19 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 14:55:19 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 14:55:19 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 14:55:23 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.947 data size:900 GB
+2020-12-25 14:55:23 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 14:55:23 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 14:55:23 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 14:55:23 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 15:01:01 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:01:01 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:01:01 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:01:01 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:01:01 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:01:01 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:01:01 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:01:01 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:01:01 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:01:08 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.875 data size:900 GB
+2020-12-25 15:01:08 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:01:56 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:01:56 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:01:56 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:01:56 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:01:56 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:01:56 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:01:56 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:01:56 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:01:56 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:02:02 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.682 data size:900 GB
+2020-12-25 15:02:02 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:02:02 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 15:02:02 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 15:02:02 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 15:07:42 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:07:42 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:07:42 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:07:42 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:07:42 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:07:42 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:07:42 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:07:42 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:07:42 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:07:47 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.856 data size:900 GB
+2020-12-25 15:07:47 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:08:08 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:08:08 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:08:08 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:08:08 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:08:08 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:08:08 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:08:08 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:08:08 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:08:08 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:08:14 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.717 data size:900 GB
+2020-12-25 15:08:14 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:08:14 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 15:08:14 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 15:08:14 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 15:14:45 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:14:45 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:14:45 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:14:45 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:14:45 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:14:45 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:14:45 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:14:45 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:14:45 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:14:49 INFO  AdaptiveGridFTPClient:86 - file listing completed at:0.708 data size:900 GB
+2020-12-25 15:14:49 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:14:49 INFO  AdaptiveGridFTPClient:136 -  Running MC with :1 channels.
+2020-12-25 15:14:49 INFO  AdaptiveGridFTPClient:139 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 15:14:49 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 15:43:42 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:43:42 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:43:42 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:43:42 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:43:42 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:43:42 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:43:42 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:43:42 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:43:42 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:43:49 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:43:49 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 15:43:49 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 15:43:49 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 15:44:55 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:44:55 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:44:55 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:44:55 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:44:55 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:44:55 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:44:55 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:44:55 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:44:55 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:45:01 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:46:02 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:46:02 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:46:02 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:46:02 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:46:02 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:46:02 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:46:02 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:46:02 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:46:02 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:46:08 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:46:08 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 15:46:08 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 15:46:08 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 15:49:24 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:49:24 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:49:24 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:49:24 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:49:24 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:49:24 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:49:24 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:49:24 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:49:24 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:49:30 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:49:30 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 15:49:30 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 15:49:30 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 15:54:29 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:54:29 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:54:29 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:54:29 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:54:29 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:54:29 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:54:29 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:54:29 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:54:29 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:54:36 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:54:36 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 15:54:36 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 15:54:36 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 15:59:14 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 15:59:14 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 15:59:14 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 15:59:14 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 15:59:14 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 15:59:14 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 15:59:14 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 15:59:14 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 15:59:14 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 15:59:20 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 15:59:20 INFO  AdaptiveGridFTPClient:127 -  Running MC with :3 channels.
+2020-12-25 15:59:20 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:3 p:2 ppq:0
+2020-12-25 15:59:20 INFO  GridFTPClient:264 - Transferring chunk LARGE params:Concurrency:3	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 20:53:45 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 20:53:45 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 20:53:45 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 20:53:45 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 20:53:45 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 20:53:45 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 20:53:45 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 20:53:45 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 20:53:45 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 20:53:55 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 20:53:55 INFO  AdaptiveGridFTPClient:127 -  Running MC with :3 channels.
+2020-12-25 20:53:55 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:3 p:2 ppq:0
+2020-12-25 20:53:55 INFO  GridFTPClient:310 - Transferring chunk LARGE params:Concurrency:3	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 20:55:50 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 20:55:50 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 20:55:50 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 20:55:50 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 20:55:50 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 20:55:50 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 20:55:50 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 20:55:50 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 20:55:50 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 20:55:59 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 20:55:59 INFO  AdaptiveGridFTPClient:127 -  Running MC with :3 channels.
+2020-12-25 20:55:59 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:3 p:2 ppq:0
+2020-12-25 20:55:59 INFO  GridFTPClient:310 - Transferring chunk LARGE params:Concurrency:3	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 20:59:13 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 20:59:13 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 20:59:13 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 20:59:13 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 20:59:13 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 20:59:13 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 20:59:13 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 20:59:13 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 20:59:13 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 20:59:19 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 20:59:19 INFO  AdaptiveGridFTPClient:127 -  Running MC with :3 channels.
+2020-12-25 20:59:19 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:3 p:2 ppq:0
+2020-12-25 20:59:19 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:3	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 21:06:17 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:06:17 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:06:17 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:06:17 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:06:17 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:06:17 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:06:17 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:06:17 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:06:17 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:06:24 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:06:24 INFO  AdaptiveGridFTPClient:127 -  Running MC with :3 channels.
+2020-12-25 21:06:24 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:3 p:2 ppq:0
+2020-12-25 21:06:24 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:3	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 21:07:47 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:07:47 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:07:47 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:07:47 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:07:47 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:07:47 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:07:47 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:07:47 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:07:47 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:07:52 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:07:52 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 21:07:52 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 21:07:52 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 21:25:47 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:25:47 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:25:47 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:25:47 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:25:47 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:25:47 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:25:47 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:25:47 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:25:47 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:25:54 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:26:06 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:26:06 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:26:06 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:26:06 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:26:06 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:26:06 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:26:06 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:26:06 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:26:06 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:26:11 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:26:11 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 21:26:11 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 21:26:11 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 21:29:32 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:29:32 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:29:32 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:29:32 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:29:32 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:29:32 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:29:32 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:29:32 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:29:32 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:29:37 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:29:37 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 21:29:37 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 21:29:37 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 21:39:03 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:39:03 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:39:03 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:39:03 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:39:03 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:39:03 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:39:03 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:39:03 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:39:03 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:39:10 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:39:10 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 21:39:10 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 21:39:10 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 21:44:36 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:44:36 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:44:36 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:44:36 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:44:36 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:44:36 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:44:36 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:44:36 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:44:36 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:44:43 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:44:43 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 21:44:43 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 21:44:43 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 21:55:42 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:55:42 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:55:42 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:55:42 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:55:42 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:55:42 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:55:42 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:55:42 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:55:42 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:55:49 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:55:49 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 21:55:49 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 21:55:49 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 21:57:10 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 21:57:11 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 21:57:11 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 21:57:11 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 21:57:11 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 21:57:11 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 21:57:11 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 21:57:11 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 21:57:11 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 21:57:18 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 21:57:18 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 21:57:18 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 21:57:18 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 22:00:22 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 22:00:22 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 22:00:22 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 22:00:22 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 22:00:22 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 22:00:22 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 22:00:22 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 22:00:22 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 22:00:22 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 22:00:28 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 22:00:28 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 22:00:28 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 22:00:28 INFO  GridFTPClient:309 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 22:18:06 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 22:18:06 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 22:18:06 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 22:18:06 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 22:18:06 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 22:18:06 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 22:18:06 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 22:18:06 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 22:18:06 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 22:18:12 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 22:18:12 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 22:18:12 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 22:18:12 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 22:43:09 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 22:43:09 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 22:43:09 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 22:43:09 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 22:43:09 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 22:43:09 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 22:43:09 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 22:43:09 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 22:43:09 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 22:43:15 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 22:43:15 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 22:43:15 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 22:43:15 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 22:45:39 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 22:45:39 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 22:45:39 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 22:45:39 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 22:45:39 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 22:45:39 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 22:45:39 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 22:45:39 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 22:45:39 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 22:45:45 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 22:45:45 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 22:45:45 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 22:45:45 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 22:49:31 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 22:49:31 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 22:49:31 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 22:49:31 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 22:49:31 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 22:49:31 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 22:49:32 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 22:49:32 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 22:49:32 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 22:49:39 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 22:49:39 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 22:49:39 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 22:49:39 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 22:51:46 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 22:51:46 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 22:51:46 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 22:51:46 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 22:51:46 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 22:51:46 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 22:51:46 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 22:51:46 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 22:51:46 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 22:51:53 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 22:51:53 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 22:51:53 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 22:51:53 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 23:07:00 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 23:07:00 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 23:07:00 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 23:07:00 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 23:07:00 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 23:07:00 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 23:07:00 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 23:07:00 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 23:07:00 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 23:07:05 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 23:07:05 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 23:07:05 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 23:07:05 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 23:19:18 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 23:19:18 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 23:19:18 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 23:19:18 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 23:19:18 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 23:19:18 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 23:19:18 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 23:19:18 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 23:19:18 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 23:19:24 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 23:19:24 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 23:19:24 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 23:19:24 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 23:34:48 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 23:34:48 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 23:34:48 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 23:34:48 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 23:34:48 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 23:34:48 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 23:34:48 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 23:34:48 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 23:34:48 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 23:34:55 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 23:34:55 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 23:34:55 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 23:34:55 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 23:41:35 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 23:41:35 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 23:41:35 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 23:41:35 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 23:41:35 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 23:41:35 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 23:41:35 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 23:41:35 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 23:41:35 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 23:41:40 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 23:41:40 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 23:41:40 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 23:41:40 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-25 23:44:10 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 23:44:10 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 23:44:10 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 23:44:10 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 23:44:10 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 23:44:10 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 23:44:10 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 23:44:10 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 23:44:10 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 23:44:16 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 23:44:33 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-25 23:44:33 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-25 23:44:33 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-25 23:44:33 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-25 23:44:33 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-25 23:44:33 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-25 23:44:33 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-25 23:44:33 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-25 23:44:33 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-25 23:44:39 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-25 23:44:39 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-25 23:44:39 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-25 23:44:39 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-26 00:24:09 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 00:24:09 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 00:24:09 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 00:24:09 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 00:24:09 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 00:24:09 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 00:24:09 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 00:24:09 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 00:24:09 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 00:28:18 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 00:28:18 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 00:28:18 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 00:28:18 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 00:28:18 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 00:28:18 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 00:28:18 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 00:28:18 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 00:28:18 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 00:30:46 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 00:30:46 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 00:30:46 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 00:30:46 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 00:30:46 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 00:30:46 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 00:30:46 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 00:30:46 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 00:30:46 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 00:31:55 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 00:31:55 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 00:31:55 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 00:31:55 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 00:31:55 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 00:31:55 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 00:31:55 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 00:31:55 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 00:31:55 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 11:05:47 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 11:05:47 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 11:05:47 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 11:05:47 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 11:05:47 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 11:05:47 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 11:05:47 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 11:05:47 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 11:05:47 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 11:08:15 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 11:08:15 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 11:08:15 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 11:08:15 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 11:08:15 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 11:08:15 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 11:08:15 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 11:08:15 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 11:08:15 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 11:08:33 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 11:08:33 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 11:08:33 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 11:08:33 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 11:08:33 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 11:08:33 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 11:08:33 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 11:08:33 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 11:08:33 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 11:09:25 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 11:09:25 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 11:09:25 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 11:09:25 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 11:09:25 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 11:09:25 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 11:09:25 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 11:09:25 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 11:09:25 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 11:12:26 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 11:12:26 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 11:12:26 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 11:12:26 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 11:12:26 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 11:12:26 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 11:12:26 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 11:12:26 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 11:12:26 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 11:12:32 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-26 11:12:57 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 11:12:57 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 11:12:57 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 11:12:57 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 11:12:57 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 11:12:57 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 11:12:57 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 11:12:57 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 11:12:57 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 11:13:00 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-26 11:13:00 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-26 11:13:00 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-26 11:13:00 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-26 11:22:39 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 11:22:39 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-26 11:22:39 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 11:22:39 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 11:22:39 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 11:22:39 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 11:22:39 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 11:22:39 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 11:22:39 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 11:22:43 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-26 11:22:43 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-26 11:22:43 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-26 11:22:43 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-26 11:31:25 INFO  AdaptiveGridFTPClient:146 - Total Time	522 Throughput:14810.232055172413
+2020-12-26 13:20:53 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 13:20:53 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 13:20:53 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 13:20:53 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 13:20:53 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 13:20:53 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 13:20:53 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 13:20:53 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 13:20:53 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 13:20:56 INFO  Utils:132 - Chunk 0:	files:900	 avg:1 GB 	 total:900 GB Density:LARGE
+2020-12-26 13:20:56 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-26 13:20:56 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-26 13:20:56 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:900 size:921600.0
+2020-12-26 13:33:42 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 13:33:42 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 13:33:42 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 13:33:42 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 13:33:42 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 13:33:42 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 13:33:42 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 13:33:42 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 13:33:42 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 13:33:45 INFO  Utils:132 - Chunk 0:	files:955	 avg:1023.87 MB 	 total:954.88 GB Density:LARGE
+2020-12-26 13:33:45 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-26 13:33:45 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-26 13:33:45 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:955 size:977796.0
+2020-12-26 13:34:27 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 13:34:27 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 13:34:27 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 13:34:27 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 13:34:27 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 13:34:27 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 13:34:27 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 13:34:27 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 13:34:27 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 13:34:30 INFO  Utils:132 - Chunk 0:	files:960	 avg:1023.5 MB 	 total:959.54 GB Density:LARGE
+2020-12-26 13:34:30 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-26 13:34:30 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-26 13:34:30 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:960 size:982564.0
+2020-12-26 14:29:34 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-26 14:29:34 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-26 14:29:34 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-26 14:29:34 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-26 14:29:34 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-26 14:29:34 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-26 14:29:34 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-26 14:29:34 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-26 14:29:34 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-26 14:29:38 INFO  Utils:132 - Chunk 0:	files:1200	 avg:1 GB 	 total:1.17 TB Density:LARGE
+2020-12-26 14:29:38 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-26 14:29:38 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-26 14:29:38 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:1200 size:1228800.0
+2020-12-27 14:00:31 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 14:00:31 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 14:00:31 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-27 14:00:31 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-27 14:00:31 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 14:00:31 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 14:00:31 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 14:00:31 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 14:00:31 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 14:00:40 INFO  Utils:132 - Chunk 0:	files:1200	 avg:1 GB 	 total:1.17 TB Density:LARGE
+2020-12-27 14:00:40 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 14:00:40 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 14:00:40 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:1200 size:1228800.0
+2020-12-27 21:38:23 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 21:38:23 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 21:38:23 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-27 21:38:23 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-27 21:38:23 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 21:38:23 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 21:38:23 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 21:38:23 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 21:38:23 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 21:38:31 INFO  Utils:132 - Chunk 0:	files:1200	 avg:1 GB 	 total:1.17 TB Density:LARGE
+2020-12-27 21:38:31 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 21:38:31 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 21:38:31 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:1200 size:1228800.0
+2020-12-27 21:47:53 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 21:47:53 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 21:47:53 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.bridges.psc.edu:2811//pylon5/ci560np/earslan/1TB/
+2020-12-27 21:47:53 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-27 21:47:53 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-27 21:47:53 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 21:47:53 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 21:47:53 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 21:47:53 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 21:47:53 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 21:47:59 INFO  Utils:132 - Chunk 0:	files:1200	 avg:1 GB 	 total:1.17 TB Density:LARGE
+2020-12-27 21:47:59 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 21:47:59 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 21:47:59 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:1200 size:1228800.0
+2020-12-27 21:50:32 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 21:50:32 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 21:50:32 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.bridges.psc.edu:2811//pylon5/ci560np/earslan/1TB/
+2020-12-27 21:50:32 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-27 21:50:32 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-27 21:50:32 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 21:50:32 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 21:50:32 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 21:50:32 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 21:50:32 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 21:50:39 INFO  Utils:132 - Chunk 0:	files:1200	 avg:1 GB 	 total:1.17 TB Density:LARGE
+2020-12-27 21:50:39 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 21:50:39 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 21:50:39 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:1200 size:1228800.0
+2020-12-27 21:52:09 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 21:52:09 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 21:52:09 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-27 21:52:09 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-27 21:52:09 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 21:52:09 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 21:52:09 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 21:52:09 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 21:52:09 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 21:52:18 INFO  Utils:132 - Chunk 0:	files:1200	 avg:1 GB 	 total:1.17 TB Density:LARGE
+2020-12-27 21:52:18 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 21:52:18 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 21:52:18 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:1200 size:1228800.0
+2020-12-27 21:54:45 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 21:54:45 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 21:54:45 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-27 21:54:45 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-27 21:54:45 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 21:54:45 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 21:54:45 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 21:54:45 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 21:54:45 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 21:54:49 WARN  GridFTPClient:196 - Client could not be establieshed. Exiting...
+2020-12-27 21:55:22 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 21:55:22 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 21:55:22 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-27 21:55:22 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 21:55:22 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 21:55:22 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 21:55:22 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 21:55:22 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 21:55:22 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 21:56:33 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 21:56:33 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 21:57:17 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 21:57:17 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 21:57:17 INFO  ConfigurationParams:129 - proxyFile = /tmp/x509up_u501-xsede
+2020-12-27 21:57:17 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 21:57:17 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 21:57:17 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 21:57:17 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 21:57:17 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 21:59:53 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 21:59:53 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 21:59:53 INFO  ConfigurationParams:129 - proxyFile = /tmp/x509up_u501-xsede
+2020-12-27 21:59:53 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 21:59:53 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 21:59:53 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 21:59:53 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 21:59:53 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:01:15 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:01:15 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:01:15 INFO  ConfigurationParams:129 - proxyFile = /tmp/x509up_u501-xsede
+2020-12-27 22:01:15 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:01:15 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:01:15 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:01:15 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:01:15 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:04:10 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:04:10 INFO  ConfigurationParams:121 - destination = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:04:10 INFO  ConfigurationParams:129 - proxyFile = /tmp/x509up_u501-xsede
+2020-12-27 22:04:10 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:04:10 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:04:10 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:04:10 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:04:10 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:08:22 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:08:22 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:08:22 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination
+2020-12-27 22:08:22 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:08:22 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:08:22 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:08:22 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:08:22 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:08:22 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:08:22 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:08:22 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:08:28 WARN  GridFTPClient:196 - Client could not be establieshed. Exiting...
+2020-12-27 22:08:42 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:08:42 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:08:42 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:08:42 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:08:42 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:08:42 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:08:42 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:08:42 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:08:42 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:08:42 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:08:42 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:08:47 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:08:47 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:08:47 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:08:47 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:15:08 INFO  AdaptiveGridFTPClient:146 - Total Time	380 Throughput:21442.60104623158
+2020-12-27 22:20:35 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:20:35 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:20:35 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:20:35 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:20:35 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:20:35 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:20:35 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:20:35 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:20:35 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:20:35 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:20:35 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:20:42 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:20:42 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:20:42 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:20:42 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:23:40 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:23:40 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:23:40 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:23:40 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:23:40 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:23:40 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:23:40 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:23:40 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:23:40 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:23:40 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:23:40 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:23:45 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:23:45 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:23:45 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:23:45 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:28:35 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:28:35 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:28:35 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:28:35 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:28:35 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:28:35 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:28:35 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:28:35 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:28:35 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:28:35 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:28:35 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:28:41 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:28:41 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:28:41 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:28:41 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:29:57 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:29:57 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:29:57 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:29:57 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:29:57 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:29:57 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:29:57 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:29:57 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:29:57 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:29:57 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:29:57 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:30:03 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:30:03 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:30:03 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:30:03 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:32:22 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:32:22 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:32:22 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:32:22 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:32:22 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:32:22 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:32:22 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:32:22 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:32:22 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:32:22 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:32:22 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:32:27 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:33:44 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:33:44 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:33:44 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:35:44 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:35:44 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:35:44 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:35:44 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:35:44 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:35:44 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:35:44 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:35:44 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:35:44 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:35:44 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:35:44 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:35:50 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:35:50 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:35:50 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:35:50 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:35:50 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:35:50 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:35:50 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:35:50 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:35:50 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:35:50 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:35:50 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:35:50 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:35:50 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:35:50 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:35:50 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:35:56 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:36:30 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:36:30 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:36:30 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:36:30 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:36:30 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:36:30 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:36:30 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:36:30 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:36:30 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:36:30 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:36:30 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:36:36 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:36:36 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:36:36 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:36:36 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:37:31 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:37:31 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:37:31 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:37:31 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:37:31 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:37:31 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:37:31 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:37:31 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:37:31 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:37:31 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:37:31 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:37:36 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:37:36 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:37:36 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:37:36 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:37:43 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:37:43 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:37:43 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:37:43 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:37:43 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:37:43 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:37:43 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:37:43 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:37:43 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:37:43 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:37:43 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:37:50 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:37:50 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:37:50 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:37:50 INFO  GridFTPClient:266 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:46:35 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:46:35 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:46:35 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:46:35 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:46:35 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:46:35 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:46:35 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:46:35 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:46:35 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:46:35 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:46:35 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:46:41 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:46:41 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:46:41 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:46:41 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-27 22:49:27 INFO  ConfigurationParams:112 - source  = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-27 22:49:27 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-27 22:49:27 INFO  ConfigurationParams:121 - destination = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1TB-destination/
+2020-12-27 22:49:27 INFO  ConfigurationParams:112 - source  = gsiftp://gridftp.stampede2.tacc.xsede.org:2811//scratch/01814/earslan/1G-120/
+2020-12-27 22:49:27 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-xsede
+2020-12-27 22:49:27 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-ncsa
+2020-12-27 22:49:27 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-27 22:49:27 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-27 22:49:27 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-27 22:49:27 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-27 22:49:27 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-27 22:49:31 INFO  Utils:132 - Chunk 0:	files:952	 avg:1020.31 MB 	 total:948.57 GB Density:LARGE
+2020-12-27 22:49:31 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-27 22:49:31 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-27 22:49:31 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:952 size:971339.75
+2020-12-28 13:07:24 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-28 13:07:24 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-28 13:07:24 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-28 13:07:24 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-28 13:07:24 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-28 13:07:24 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-28 13:07:24 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-28 13:07:24 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-28 13:07:24 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-28 13:07:28 INFO  Utils:132 - Chunk 0:	files:1200	 avg:1 GB 	 total:1.17 TB Density:LARGE
+2020-12-28 13:07:49 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2020-12-28 13:07:49 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2020-12-28 13:07:49 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2020-12-28 13:07:49 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2020-12-28 13:07:49 INFO  ConfigurationParams:212 - Model = gradient
+2020-12-28 13:07:49 INFO  ConfigurationParams:171 - maxCC = 20
+2020-12-28 13:07:49 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2020-12-28 13:07:49 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2020-12-28 13:07:49 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2020-12-28 13:07:51 INFO  Utils:132 - Chunk 0:	files:1200	 avg:1 GB 	 total:1.17 TB Density:LARGE
+2020-12-28 13:07:51 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2020-12-28 13:07:51 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:2 ppq:0
+2020-12-28 13:07:51 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:2	Pipelining:0 33554432 file count:1200 size:1228800.0
+2020-12-28 13:12:22 INFO  AdaptiveGridFTPClient:146 - Total Time	270 Throughput:38177.48707555555
+2021-02-03 14:41:46 INFO  ConfigurationParams:121 - destination = gsiftp://oasis-dm.sdsc.xsede.org/oasis/scratch-comet/earslan/temp_project/test/
+2021-02-03 14:41:46 INFO  ConfigurationParams:112 - source  = gsiftp://ie11.ncsa.illinois.edu:2811//scratch/sciteam/earslan/1G-120/
+2021-02-03 14:41:46 INFO  ConfigurationParams:145 - dst-cred = /tmp/x509up_u501-xsede
+2021-02-03 14:41:46 INFO  ConfigurationParams:137 - sc-cred = /tmp/x509up_u501-ncsa
+2021-02-03 14:41:46 INFO  ConfigurationParams:212 - Model = gradient
+2021-02-03 14:41:46 INFO  ConfigurationParams:171 - maxCC = 20
+2021-02-03 14:41:46 INFO  ConfigurationParams:154 - bandwidth = 1.0E10 GB
+2021-02-03 14:41:46 INFO  ConfigurationParams:162 - rtt = 0.04 seconds
+2021-02-03 14:41:46 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-02-03 14:41:46 WARN  GridFTPClient:197 - Client could not be establieshed. Exiting...
