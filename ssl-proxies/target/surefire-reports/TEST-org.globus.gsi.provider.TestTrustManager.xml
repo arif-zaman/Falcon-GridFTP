@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="13" failures="1" name="org.globus.gsi.provider.TestTrustManager" time="0.254" errors="0" skipped="0">
+<testsuite tests="13" failures="1" name="org.globus.gsi.provider.TestTrustManager" time="0.243" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
@@ -62,9 +62,9 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validationTest" time="0.012"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="testKeyUsage" time="0.037"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="testKeyUsage" time="0.029"/>
   <testcase classname="org.globus.gsi.provider.TestTrustManager" name="testNoBasicConstraintsExtension" time="0.006"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="testCrlsChecks" time="0.115">
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="testCrlsChecks" time="0.114">
     <failure type="java.lang.AssertionError">java.lang.AssertionError
 	at org.globus.gsi.provider.TestProxyPathValidator.validateErrorBuiltin(TestProxyPathValidator.java:456)
 	at org.globus.gsi.provider.TestProxyPathValidator.testCrlsChecks(TestProxyPathValidator.java:967)
@@ -99,13 +99,13 @@
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:74)
 </failure>
   </testcase>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="testSigningPolicy" time="0.006"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validateGsi2PathGood" time="0.009"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validateRejectLimitedCheck" time="0.008"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validateGsi3PathGood" time="0.012"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathWithRestrictedProxy" time="0.02"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathMixedProxy" time="0.008"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathProxyPathConstraint" time="0.008"/>
-  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathCAPathConstraint" time="0.008"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="testSigningPolicy" time="0.007"/>
   <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathBad" time="0.005"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validateGsi2PathGood" time="0.008"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validateRejectLimitedCheck" time="0.01"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validateGsi3PathGood" time="0.025"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathWithRestrictedProxy" time="0.006"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathMixedProxy" time="0.006"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathProxyPathConstraint" time="0.008"/>
+  <testcase classname="org.globus.gsi.provider.TestTrustManager" name="validatePathCAPathConstraint" time="0.007"/>
 </testsuite>

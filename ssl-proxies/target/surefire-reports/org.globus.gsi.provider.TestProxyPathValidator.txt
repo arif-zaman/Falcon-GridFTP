@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: org.globus.gsi.provider.TestProxyPathValidator
 -------------------------------------------------------------------------------
-Tests run: 12, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.198 sec <<< FAILURE!
-testCrlsChecks(org.globus.gsi.provider.TestProxyPathValidator)  Time elapsed: 0.111 sec  <<< FAILURE!
+Tests run: 12, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.195 sec <<< FAILURE!
+testCrlsChecks(org.globus.gsi.provider.TestProxyPathValidator)  Time elapsed: 0.11 sec  <<< FAILURE!
 java.lang.AssertionError
 	at org.globus.gsi.provider.TestProxyPathValidator.validateErrorBuiltin(TestProxyPathValidator.java:456)
 	at org.globus.gsi.provider.TestProxyPathValidator.testCrlsChecks(TestProxyPathValidator.java:967)

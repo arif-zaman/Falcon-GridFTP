@@ -334,7 +334,7 @@ public class FTPClient{
 
                 fileList.updateOnAir(-1);
                 if(channelPair.isConfigurationChanged) {
-                    restartChannel(channelPair);
+                    channelPair = restartChannel(channelPair);
                 }
                 /*
                 // The transfer of the channelPair's assigned fileClusters is completed.

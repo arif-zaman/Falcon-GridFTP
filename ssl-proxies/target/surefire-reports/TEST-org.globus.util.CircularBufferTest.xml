@@ -61,6 +61,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="org.globus.util.CircularBufferTest" name="testPutFull" time="0.001"/>
+  <testcase classname="org.globus.util.CircularBufferTest" name="testPutFull" time="0"/>
   <testcase classname="org.globus.util.CircularBufferTest" name="testInterruptBoth" time="0"/>
 </testsuite>

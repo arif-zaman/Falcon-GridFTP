@@ -61,9 +61,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="org.globus.gsi.util.TestSigningPolicyFileParser" name="testPatternMatching" time="0.004"/>
+  <testcase classname="org.globus.gsi.util.TestSigningPolicyFileParser" name="testPatternMatching" time="0.003"/>
   <testcase classname="org.globus.gsi.util.TestSigningPolicyFileParser" name="testFileSuccess" time="0.006"/>
   <testcase classname="org.globus.gsi.util.TestSigningPolicyFileParser" name="testFilesWithTab" time="0.002"/>
-  <testcase classname="org.globus.gsi.util.TestSigningPolicyFileParser" name="testFileFailure" time="0"/>
+  <testcase classname="org.globus.gsi.util.TestSigningPolicyFileParser" name="testFileFailure" time="0.001"/>
   <testcase classname="org.globus.gsi.util.TestSigningPolicyFileParser" name="testParsingFailure" time="0.001"/>
 </testsuite>

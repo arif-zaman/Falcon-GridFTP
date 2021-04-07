@@ -61,6 +61,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="org.globus.util.UtilTest" name="testQuote1" time="0"/>
-  <testcase classname="org.globus.util.UtilTest" name="testUnQuote1" time="0.001"/>
+  <testcase classname="org.globus.util.UtilTest" name="testQuote1" time="0.001"/>
+  <testcase classname="org.globus.util.UtilTest" name="testUnQuote1" time="0"/>
 </testsuite>

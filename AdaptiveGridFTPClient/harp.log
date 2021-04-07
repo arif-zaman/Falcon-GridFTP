@@ -3955,3 +3955,429 @@
 2021-03-30 23:04:55 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
 2021-03-30 23:04:55 INFO  AdaptiveGridFTPClient:130 - Chunk :MEDIUM cc:1 p:1 ppq:0
 2021-03-30 23:04:55 INFO  GridFTPClient:267 - Transferring chunk MEDIUM params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:14 size:13312.0
+2021-04-06 00:40:03 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/hem/
+2021-04-06 00:40:03 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 00:40:03 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 00:40:03 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 00:40:03 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 00:40:03 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 00:40:03 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 00:40:03 INFO  Utils:132 - Chunk 0:	files:1496	 avg:1 GB 	 total:1.46 TB Density:LARGE
+2021-04-06 00:40:03 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 00:40:03 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 00:40:03 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1496 size:1531904.0
+2021-04-06 00:42:01 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/hem/
+2021-04-06 00:42:01 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 00:42:01 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 00:42:01 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 00:42:01 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 00:42:01 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 00:42:01 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 00:42:02 INFO  Utils:132 - Chunk 0:	files:1496	 avg:1 GB 	 total:1.46 TB Density:LARGE
+2021-04-06 00:42:02 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 00:42:02 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 00:42:02 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1496 size:1531904.0
+2021-04-06 18:26:45 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/hem/
+2021-04-06 18:26:45 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 18:26:45 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 18:26:45 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 18:26:45 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 18:26:45 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 18:26:45 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 18:26:45 INFO  Utils:132 - Chunk 0:	files:1496	 avg:1 GB 	 total:1.46 TB Density:LARGE
+2021-04-06 18:27:04 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/hem/
+2021-04-06 18:27:04 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 18:27:04 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 18:27:04 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 18:27:04 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 18:27:04 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 18:27:04 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 18:27:04 INFO  Utils:132 - Chunk 0:	files:1496	 avg:1 GB 	 total:1.46 TB Density:LARGE
+2021-04-06 18:33:59 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/hem/
+2021-04-06 18:33:59 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 18:33:59 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 18:33:59 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 18:33:59 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 18:33:59 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 18:33:59 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 18:33:59 INFO  Utils:132 - Chunk 0:	files:1496	 avg:1 GB 	 total:1.46 TB Density:LARGE
+2021-04-06 18:43:42 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 18:43:42 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 18:43:42 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 18:43:42 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 18:43:42 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 18:43:42 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 18:43:42 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 18:43:42 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 18:45:20 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 18:45:20 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 18:45:20 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 18:45:20 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 18:45:20 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 18:45:20 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 18:45:20 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 18:45:20 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 18:53:59 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 18:53:59 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 18:53:59 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 18:53:59 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 18:53:59 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 18:53:59 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 18:53:59 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 18:53:59 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 18:55:13 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 18:55:13 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 18:55:13 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 18:55:13 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 18:55:13 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 18:55:13 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 18:55:13 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 18:55:13 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 18:57:24 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 18:57:24 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 18:57:24 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 18:57:24 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 18:57:24 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 18:57:24 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 18:57:24 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 18:57:25 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 18:57:25 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 18:57:25 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 18:57:25 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 20:38:27 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 20:38:27 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 20:38:27 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 20:38:27 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 20:38:27 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 20:38:27 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 20:38:27 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 20:38:28 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 20:52:25 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 20:52:25 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 20:52:25 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 20:52:25 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 20:52:25 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 20:52:25 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 20:52:25 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 20:52:25 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 20:54:37 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 20:54:37 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 20:54:37 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 20:54:37 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 20:54:37 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 20:54:37 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 20:54:37 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 20:54:37 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 20:55:19 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 20:55:19 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 20:55:19 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 20:55:19 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 20:55:19 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 20:55:19 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 20:55:19 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 20:55:20 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 20:55:20 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 20:55:20 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 20:55:20 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 20:56:04 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 20:56:04 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 20:56:04 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 20:56:04 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 20:56:04 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 20:56:04 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 20:56:04 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 20:56:04 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 20:56:04 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 20:56:04 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 20:56:04 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 21:23:36 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:23:36 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:23:36 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:23:36 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:23:36 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:23:36 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:23:36 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:23:37 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:23:37 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 21:23:37 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 21:23:37 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 21:27:37 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:27:37 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:27:37 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:27:37 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:27:37 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:27:37 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:27:37 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:27:37 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:32:17 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:32:17 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:32:17 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:32:17 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:32:17 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:32:17 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:32:17 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:32:17 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:35:28 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:35:28 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:35:28 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:35:28 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:35:28 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:35:28 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:35:28 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:35:29 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:38:38 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:38:38 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:38:38 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:38:38 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:38:38 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:38:38 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:38:38 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:38:38 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:39:27 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 21:39:27 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 21:39:27 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 21:42:43 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:42:43 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:42:43 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:42:43 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:42:43 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:42:43 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:42:43 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:42:43 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:43:00 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 21:43:00 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 21:43:00 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 21:47:38 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:47:38 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:47:38 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:47:38 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:47:38 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:47:38 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:47:38 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:47:38 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:47:38 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 21:47:38 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 21:47:38 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 21:50:28 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:50:28 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:50:28 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:50:28 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:50:28 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:50:28 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:50:28 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:50:28 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:50:44 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 21:50:44 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 21:50:44 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 21:52:39 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 21:52:39 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 21:52:39 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 21:52:39 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 21:52:39 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 21:52:39 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 21:52:39 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 21:52:39 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 21:53:25 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 21:53:25 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 21:53:25 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 22:21:46 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 22:21:46 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 22:21:46 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 22:21:46 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 22:21:46 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 22:21:46 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 22:21:46 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 22:21:46 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 22:22:28 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 22:22:28 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 22:22:28 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 22:44:41 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 22:44:41 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 22:44:41 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 22:44:41 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 22:44:41 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 22:44:41 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 22:44:41 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 22:44:42 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 22:48:25 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 22:48:25 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 22:48:25 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 22:48:25 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 22:48:25 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 22:48:25 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 22:48:25 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 22:48:25 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 23:01:44 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 23:01:44 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 23:01:44 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 23:01:44 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 23:01:44 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 23:01:44 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 23:01:44 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 23:01:44 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 23:01:44 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 23:01:44 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 23:01:44 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 23:02:12 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 23:02:12 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 23:02:12 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 23:02:12 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 23:02:12 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 23:02:12 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 23:02:12 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 23:02:12 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 23:18:43 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 23:18:43 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 23:18:43 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 23:18:43 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 23:18:43 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 23:18:43 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 23:18:43 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 23:18:43 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 23:20:00 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 23:20:00 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 23:20:00 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 23:20:00 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 23:20:00 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 23:20:00 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 23:20:00 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 23:20:01 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 23:20:01 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 23:20:01 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 23:20:01 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 23:50:11 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 23:50:11 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 23:50:11 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 23:50:11 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 23:50:11 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 23:50:11 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 23:50:11 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 23:50:11 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 23:50:11 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 23:50:11 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 23:50:11 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-06 23:51:37 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-06 23:51:37 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-06 23:51:37 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-06 23:51:37 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-06 23:51:37 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-06 23:51:37 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-06 23:51:37 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-06 23:51:37 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-06 23:51:37 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-06 23:51:37 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-06 23:51:37 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-07 03:59:36 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 03:59:36 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-07 03:59:36 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 03:59:36 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-07 03:59:36 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 03:59:36 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 03:59:36 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 03:59:36 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-07 03:59:36 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-07 03:59:36 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-07 03:59:36 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-07 04:10:55 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 04:10:55 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-07 04:10:55 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 04:10:55 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-07 04:10:55 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 04:10:55 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 04:10:55 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 04:10:55 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-07 04:15:27 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 04:15:27 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-07 04:15:27 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 04:15:27 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-07 04:15:27 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 04:15:27 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 04:15:27 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 04:15:27 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-07 04:16:55 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 04:16:55 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-07 04:16:55 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 04:16:55 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-07 04:16:55 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 04:16:55 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 04:16:55 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 04:16:55 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-07 04:35:46 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 04:35:46 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-07 04:35:46 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 04:35:46 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-07 04:35:46 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 04:35:46 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 04:35:46 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 04:35:46 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-07 04:35:46 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-07 04:35:46 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-07 04:35:46 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-07 04:41:25 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 04:41:25 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-07 04:41:25 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 04:41:25 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-07 04:41:25 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 04:41:25 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 04:41:25 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 04:41:25 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-07 04:41:25 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-07 04:41:25 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-07 04:41:25 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-07 05:12:31 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 05:12:31 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-07 05:12:31 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 05:12:31 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-07 05:12:31 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 05:12:31 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 05:12:31 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 05:12:31 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-07 05:12:31 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-07 05:12:31 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-07 05:12:31 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-07 05:16:56 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 05:16:56 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.71:50505/data/arif/
+2021-04-07 05:16:56 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 05:16:56 INFO  ConfigurationParams:171 - maxCC = 30
+2021-04-07 05:16:56 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 05:16:56 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 05:16:56 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 05:16:56 INFO  Utils:132 - Chunk 0:	files:1024	 avg:1 GB 	 total:1 TB Density:LARGE
+2021-04-07 05:16:56 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-07 05:16:56 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:1 p:1 ppq:0
+2021-04-07 05:16:56 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:1024 size:1048576.0
+2021-04-07 05:50:12 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.71:50505/data/earslan/
+2021-04-07 05:50:12 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.70:50505/data/arif/
+2021-04-07 05:50:12 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 05:50:12 INFO  ConfigurationParams:171 - maxCC = 32
+2021-04-07 05:50:12 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 05:50:12 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 05:50:12 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 05:50:12 INFO  Utils:132 - Chunk 0:	files:2	 avg:170.38 MB 	 total:340.75 MB Density:SMALL
+2021-04-07 05:50:12 INFO  Utils:132 - Chunk 1:	files:18	 avg:623.26 MB 	 total:10.96 GB Density:MEDIUM
+2021-04-07 05:50:12 INFO  Utils:132 - Chunk 2:	files:557	 avg:1.02 GB 	 total:568.46 GB Density:LARGE
+2021-04-07 05:50:12 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-07 05:50:12 INFO  AdaptiveGridFTPClient:130 - Chunk :SMALL cc:1 p:1 ppq:0
+2021-04-07 05:50:12 INFO  AdaptiveGridFTPClient:130 - Chunk :MEDIUM cc:0 p:1 ppq:0
+2021-04-07 05:50:12 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:0 p:1 ppq:0
+2021-04-07 05:50:12 INFO  GridFTPClient:267 - Transferring chunk SMALL params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:2 size:340.75
+2021-04-07 05:50:12 INFO  GridFTPClient:267 - Transferring chunk MEDIUM params:Concurrency:0	Paralellism:1	Pipelining:0 33554432 file count:18 size:11218.75
+2021-04-07 05:50:12 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:0	Paralellism:1	Pipelining:0 33554432 file count:557 size:582100.875
+2021-04-07 05:52:09 INFO  ConfigurationParams:112 - source  = ftp://134.197.113.71:50505/data/earslan/
+2021-04-07 05:52:09 INFO  ConfigurationParams:121 - destination = ftp://134.197.113.70:50505/data/arif2/
+2021-04-07 05:52:09 INFO  ConfigurationParams:212 - Model = gradient
+2021-04-07 05:52:09 INFO  ConfigurationParams:171 - maxCC = 32
+2021-04-07 05:52:09 INFO  ConfigurationParams:154 - bandwidth = 4.0E10 GB
+2021-04-07 05:52:09 INFO  ConfigurationParams:162 - rtt = 0.001 seconds
+2021-04-07 05:52:09 INFO  ConfigurationParams:180 - bs = 3.3554432E7
+2021-04-07 05:52:10 INFO  Utils:132 - Chunk 0:	files:2	 avg:170.38 MB 	 total:340.75 MB Density:SMALL
+2021-04-07 05:52:10 INFO  Utils:132 - Chunk 1:	files:18	 avg:623.26 MB 	 total:10.96 GB Density:MEDIUM
+2021-04-07 05:52:10 INFO  Utils:132 - Chunk 2:	files:557	 avg:1.02 GB 	 total:568.46 GB Density:LARGE
+2021-04-07 05:52:10 INFO  AdaptiveGridFTPClient:127 -  Running MC with :1 channels.
+2021-04-07 05:52:10 INFO  AdaptiveGridFTPClient:130 - Chunk :SMALL cc:1 p:1 ppq:0
+2021-04-07 05:52:10 INFO  AdaptiveGridFTPClient:130 - Chunk :MEDIUM cc:0 p:1 ppq:0
+2021-04-07 05:52:10 INFO  AdaptiveGridFTPClient:130 - Chunk :LARGE cc:0 p:1 ppq:0
+2021-04-07 05:52:10 INFO  GridFTPClient:267 - Transferring chunk SMALL params:Concurrency:1	Paralellism:1	Pipelining:0 33554432 file count:2 size:340.75
+2021-04-07 05:52:10 INFO  GridFTPClient:267 - Transferring chunk MEDIUM params:Concurrency:0	Paralellism:1	Pipelining:0 33554432 file count:18 size:11218.75
+2021-04-07 05:52:10 INFO  GridFTPClient:267 - Transferring chunk LARGE params:Concurrency:0	Paralellism:1	Pipelining:0 33554432 file count:557 size:582100.875
+2021-04-07 05:52:10 INFO  AdaptiveGridFTPClient:146 - Total Time	0 Throughput:Infinity
