@@ -1,3 +1,5 @@
+h5. Original Repository: https://github.com/earslan58/JGlobus
+
 h2. JGlobus
 
 "https://github.com/jglobus/JGlobus/":https://github.com/jglobus/JGlobus/
