@@ -1,8 +1,8 @@
 """
 # please install scipy
 # provide HOST, PORT of the opt_server in main functions
-# it will send back parameters value (format: cc,pp,pipeline,blocksize) for probing,
-    for example: "1,1,4,6" and will wait for throughput value
+# it will send back parameters value (format: cc,pp,pipeline) for probing,
+    for example: "1,1,4" and will wait for throughput value
 # send back throughput values in Mbps, for example: "10000.07"
 # send "-1" to terminate the optimizer
 """
