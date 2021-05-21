@@ -1,4 +1,6 @@
-h5. Original Repository: https://github.com/earslan58/JGlobus
+h5. Modified from following Repository: https://github.com/earslan58/JGlobus
+
+*************
 
 h2. JGlobus
 
