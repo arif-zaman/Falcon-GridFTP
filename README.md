@@ -1,4 +1,4 @@
-h2. Modified from following Repository: https://github.com/earslan58/JGlobus
+### Modified from following Repository: https://github.com/earslan58/JGlobus
 
 *************
 
@@ -16,7 +16,7 @@ h2. Modified from following Repository: https://github.com/earslan58/JGlobus
 1. cd into JGlobus folder and run `mvn compile; mvn install` if you face test failures, add `-DskipTests` option to commands
 2. cd into AdaptiveGridFTPClient folder and run `mvn compile` 
 3. cd into src/main/python and run `python3 socket_gradient.py`
-4. Add a configuration file (config.cfg) in src/main/resources/ and edit as described below (Make sure to enter correct bandwidth and RTT values). See the sample config file in  src/main/resources/sample_config.cfg
+4. Add a configuration file (config.cfg) in src/main/resources/ and edit as described below. See the sample config file in  src/main/resources/sample_config.cfg
 5. Run `mvn exec:java` to run the code
 
 ## Configuration File
@@ -24,8 +24,8 @@ h2. Modified from following Repository: https://github.com/earslan58/JGlobus
   **-d** $Destination_GridFTP_Server  
   **-proxy** $Proxy_file_path (Default will try to read from /tmp for running user id)  
   **-cc** $maximum_allowed_concurrency (HARP Specific, does not have impact on Falcon)  
-  **-rtt** $rtt (round trip time between source and destination) in ms  
-  **-bw** $bw (Maximum bandwidth between source and destination) in Gbps  
+  **-rtt** $rtt (round trip time between source and destination [HARP Only]) in ms
+  **-bw** $bw (Maximum bandwidth between source and destination [HARP Only]) in Gbps
   **-bs** $buffer_size (TCP buffer size of minimum of source's read and destination's write in MB)
   **-model** $optimization model (gradient/bayes[Future work]. it connects the local server for parameters update. Current implementation uses whatever algorithms runinng on the server.)   
   **[-single-chunk]** (Will use Single Chunk [SC](http://dl.acm.org/citation.cfm?id=2529904) approach to schedule transfer. Will transfer one chunk at a time)  
